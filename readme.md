@@ -20,4 +20,9 @@ then click on run analysis
 
 ## additional info
 
-in `/test/request.http`, you'll find some sample requests we have used for testing
+in `/test/request.http`, you'll find some sample requests we have used for testing.  
+
+# documentation
+- [pub chem cookbook](https://iupac.github.io/WFChemCookbook/datasources/pubchem_pugrest1.html)
+- [pub chem rest api](https://pubchem.ncbi.nlm.nih.gov/docs/pug-rest)
+- [streamlit](https://docs.streamlit.io/en/stable/)
